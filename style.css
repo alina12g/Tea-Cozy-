@@ -51,7 +51,7 @@ body{
   width: 1200px;
   height: 700px;
   margin: auto;
-  background-image: url('../Tea Cozy/resouces/img-mission-background.jpg');
+  background-image: url('resources/img-mission-background.jpg');
 }
 /*The content of main banner*/
 .text-mission{
@@ -87,7 +87,7 @@ body{
   margin-right: 16px;
 }
 #location{
-  background-image: url('../Tea Cozy/resouces/img-locations-background.jpg');
+  background-image: url('resources/img-locations-background.jpg');
   display: block;
   align-items: center;
   height: 500px;
